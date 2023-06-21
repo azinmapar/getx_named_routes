@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
 }
 
 /**
- * $ Named Routes (Navigation)
+ * ! Named Routes (Navigation)
  * * Next Screen but can't come back here
  * $ Get.offNamed('/screen')
  * * Normal next Screen
